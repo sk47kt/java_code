@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class array {
 
 	public static void main(String[] args) {
-		char[] text = {'¾È','³ç','ÇÏ','¼¼','¿ä'};
+		char[] text = {'ì•ˆ','ë…•','í•˜','ì„¸',''};
 		for (int x=0;x<text.length;x++)
 		{
 			System.out.println(text[x]);
